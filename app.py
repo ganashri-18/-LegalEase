@@ -279,7 +279,6 @@ with tabs[1]:
 with tabs[2]:
     st.subheader("💡 Plain-English Contract Translator")
     st.write("Demystify dense legal language into everyday bullet points (8th-grade reading level).")
-
     explainer_col1, explainer_col2 = st.columns([1, 1], gap="large")
 
     with explainer_col1:
